@@ -1,7 +1,7 @@
-# Portfolio
+# Proper Portfolio
 A test of a Data Science portfolio website
 
-# [Project 1: Money_Insight](https://github.com/WeaverTL/money-insight)
+# [Project 1: Financial Findings](https://github.com/WeaverTL/Financial_Findings)
 Personal finances analysis with python jupyter-notebook on jupyterlab
   - Data ingestion from Excel and CSV
   - Data manipulation with Pandas
