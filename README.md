@@ -9,7 +9,7 @@ Personal finances analysis with python jupyter-notebook on jupyterlab
  
 Commits are not be very readable because of jupyter, might change this in the future...
 
-###Inline Plotly Visuals are very convenient
+### Inline Plotly Visuals are very convenient
 
 ![](https://github.com/WeaverTL/portfolio/blob/master/images/Screenshot%202020-06-30%20at%2014.06.35.png)
 
