@@ -7,7 +7,7 @@ Personal finances analysis with python jupyter-notebook on jupyterlab
   - Data manipulation with Pandas
   - Visuals using Plotly on Jupyterlab
  
-Commits are not be very readable because of jupyter, might change this in the future...
+Commits are not very readable at the moment because of jupyter, might change this in the future...
 
 ### Inline Plotly Visuals are very convenient
 
